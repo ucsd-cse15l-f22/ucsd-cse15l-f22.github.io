@@ -7,7 +7,7 @@ permalink: "/office-hours/"
 header: no
 ---
 
-**Joe**: Tuesday 2-3pm, CSE 3206
+**Joe**: Tuesday 2-3pm, CSE B260 (**Remote** on November 15)
 
 **Bhavani**: Thursday 10am-12pm, CSE Basement tables outside B240
 
