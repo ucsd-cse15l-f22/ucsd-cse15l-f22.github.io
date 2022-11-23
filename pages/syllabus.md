@@ -105,9 +105,20 @@ same types in this offering) [[W22 demo
 1]](https://ucsd-cse15l-w22.github.io/week/week5/#skill-demonstration-1) [[W22
 demo 2]](https://ucsd-cse15l-w22.github.io/week/week9/#skill-demonstration-2)
 
-Then, in place of the final exam, you can re-do one or both of these
+~~Then, in place of the final exam, you can re-do one or both of these
 demonstrations if you missed credit on them to make up the missed credit. The
-final exam may not be exacly the same tasks, but will be similar.
+final exam may not be exactly the same tasks, but will be similar.~~
+
+Due to uncertainty around grading resources, the format of the re-do and of the
+second skill demonstration have changed:
+
+- The first skill demonstration will be re-done asynchronously by you
+  submitting a video of yourself completing the tasks.
+- The second skill demonstration will be completed by video and due by Monday
+  of finals week. There will be no opportunity to re-take it; rather, you can
+  have a lot of confidence that you succeeded by crafting your video carefully
+  to match the task.  You can work on this together in lab in week 10. Details
+  of the task will be posted on Monday of week 10.
 
 You do **not** need to plan to attend the scheduled final exam slot for the
 course, though we may provide that time as an option for scheduling some of the
@@ -123,27 +134,27 @@ boundaries of these categories at the instructor's discretion.
 To pass the course, you must fully pass **both** skill demonstrations.
 
 - **A** achievement:
-    - 7 or more lab participation (there are 8 labs that aren't skill demonstrations)
+    - 6 or more lab participation (there are 8 labs that aren't skill demonstrations)
     - All quizzes complete and correct, no more than 3 late
     - All but 3 handouts submitted complete, no more than 10 late
-    - All 5 lab reports complete, 4 with full credit/feedback addressed
+    - All 5 lab reports complete, at least 4 with full credit/feedback addressed
     - Passing score on **both** skill demonstrations (either initially or with the
     final make-up)
 - **B** achievement:
-    - 6 or more lab participation
+    - 5 or more lab participation
     - 9/10 quizzes complete and correct, no more than 5 late
     - All but 5 handouts submitted, any number can be late (up to the next
     lecture)
-    - All 5 lab reports complete, 3 with full credit/feedback addressed
-    - Passing score on **both** skill demonstrations (either initially or with the
-    final make-up)
+    - All 5 lab reports complete, at least 2 with full credit/feedback addressed
+    - Passing score on **one of two** skill demonstrations (either initially or
+      with the final make-up)
 - **C** achievement:
-    - 5 or more lab participation
+    - 4 or more lab participation
     - 7/10 quizzes complete and correct, submitted at any time
     - All 5 lab reports complete, at least 2 with full credit/feedback addressed
     - Over half of handouts submitted, any number can be late
-    - Passing score on **both** skill demonstrations (either initially
-    or with the final make-up)
+    - Passing score on **one of two** skill demonstrations (either initially
+      or with the final make-up)
 
 ## Consent to Participate in Educational Research
 
