@@ -131,7 +131,10 @@ C in the course. You must reach that achievement level in _all_ of the
 categories to get an A, B, or C. Pluses and minuses will be given around the
 boundaries of these categories at the instructor's discretion.
 
-To pass the course, you must fully pass **both** skill demonstrations.
+~~To pass the course, you must fully pass **both** skill demonstrations.~~
+  
+To pass the course, you must pass **one of two** skill demonstrations (either initially or
+with the final make-up).  
 
 - **A** achievement:
     - 6 or more lab participation (there are 8 labs that aren't skill demonstrations)
