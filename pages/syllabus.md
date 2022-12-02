@@ -148,13 +148,13 @@ with the final make-up).
     - 9/10 quizzes complete and correct, no more than 5 late
     - All but 5 handouts submitted, any number can be late (up to the next
     lecture)
-    - All 5 lab reports complete, at least 2 with full credit/feedback addressed
+    - At least 4 lab reports complete, at least 2 with full credit/feedback addressed
     - Passing score on **one of two** skill demonstrations (either initially or
       with the final make-up)
 - **C** achievement:
     - 4 or more lab participation
     - 7/10 quizzes complete and correct, submitted at any time
-    - All 5 lab reports complete, at least 2 with full credit/feedback addressed
+    - At least 3 lab reports complete, at least 2 with full credit/feedback addressed
     - Over half of handouts submitted, any number can be late
     - Passing score on **one of two** skill demonstrations (either initially
       or with the final make-up)
